@@ -41,6 +41,6 @@
 
 ## Skills
 
-Technical: Java, Red Hat Enterprise Linux, Windows Server, McAfee ePO, Tenable.sc, Ansible, Cisco iOS/NX-OS, VMWare, Jenkins
-Programmatic: Agile and Scrum, Atlassian tool suite, Gitlab, avoids Microsoft Project
-Personal: Public speaking, critical thinking, documentation, biking, upholstery
+- Technical: Java, Red Hat Enterprise Linux, Windows Server, McAfee ePO, Tenable.sc, Ansible, Cisco iOS/NX-OS, VMWare, Jenkins
+- Programmatic: Agile and Scrum, Atlassian tool suite, Gitlab
+- Personal: Public speaking, critical thinking, documentation, biking, upholstery
