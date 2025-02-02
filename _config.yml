@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-merlot
+show_downloads: false
 title: Michael Ryan
-description: Information systems, development, and cybersecurity professional with years of experience in platform engineering for a variety of use cases and compliance needs. Created multiple software teams for Kubernetes systems management, software development, and regulatory compliance. Expertise in Kubernetes, Java, C#, computer networking, and NIST 800-37. Currently cleared at a Secret level and a Certified Secure Software Lifecycle Professional (CSSLP).</p><p><a href="mailto:michael@michaeltryan.me">michael@michaeltryan.me</a>
+description: <a href="mailto:michael@michaeltryan.me">michael@michaeltryan.me</a>

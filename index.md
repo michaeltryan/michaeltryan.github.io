@@ -1,56 +1,67 @@
-## Experience
+---
+layout: default
+---
 
-### Naval Surface Warfare Center Philadelphia Division
+# Professional Summary
 
-**Location:** Philadelphia, PA
+Information systems, development, and cybersecurity professional with years of experience in platform engineering for a variety of use cases and compliance needs. Created multiple software teams for Kubernetes systems management, software development, and regulatory compliance. Expertise in Kubernetes, Java, C#, computer networking, and NIST 800-37. Cleared at a Secret level and a Certified Secure Software Lifecycle Professional (CSSLP).
 
-2020 - Present
-:   **Chief Product Owner, DevSecOps Systems**
-    - Leads digital transformation of Philadelphia Division Navy systems to support four pillars of cybersecure policy: data standardization, shared infrastructure between afloat and ashore, automation of development and security authorization, and use of AWS and Azure.
-    - Leads a team responsible for conversion of standalone, isolated development and test networks for non-traditional IT or non-IT systems to network-connected environments in support of DevOps practices.
-    - Engages with stakeholders at many levels of DoN leadership, industry vendors, and academic partners on new Risk Management Framework (RMF) Continuous Authorization policy for afloat and ashore systems in support of accelerated warfighter delivery.
-    - Architects solutions for automated Tenable.sc compliance scanning, STIG compliance-as-code, and manual processes that maximize inheritance for technical groups to conduct business with transparent cybersecurity.
-    - Responsible for hybrid Cisco, VMWare, and AWS GovCloud test-bed to demonstrate end-to-end prototypes of next-generation Navy systems.
-    - Engages with industrial control partners on development and integration of new tools to enhance industrial control system cyber resilience across the Navy fleet.
-    - Regularly presents project progress to DoN stakeholders through in-process reviews, flag officer briefs, and sprint reviews.
-    - Guides business-wide DoD information systems through RMF categorization and implementation of NIST cybersecurity controls.
+# Experience
 
-2017-2020
-:   **DDG 1000 Software Lead**
-    - Supported DDG 1000 Destroyer Machinery Controls Systems (MCS) group.
-    - Led multi-disciplinary development and information assurance team from through all phases of software lifecycle.
-    - Organized and trained new team members for government-led development.
-    - Constructed standalone, disconnected lab, including configuration management, authentication, and development systems.
-    - Enforced configuration management and release processes for Java, C++, and Siemens Programmable Logic Controller (PLC) software projects.
-    - Participated in cyber tabletop events as a Navy system subject matter expert.
-    - Supported site visits and installations for DDG 1000 class surface combatants.
-    - Created procedural guidance for sustainment by Navy sailors when engineering support is not available.
-
-### Life Cycle Engineering
+## Naval Surface Warfare Center Philadelphia Division
 
 **Location:** Philadelphia, PA
 
-2015 - 2017
-:   **Software Engineer**
-    - Designed configuration management and release processes for Java, C++, and Siemens Programmable Logic Controller (PLC) software projects.
-    - Upgraded standalone, disconnected Windows/Linux software development lab for machinery controls software development lab from CentOS/RedHat Enterprise Linux 5/6 to 7 with a security focus.
-    - Supported Navy surface combatant acquisition, development, and systems engineering.
-    - Tested and configured Cisco Catalyst 6500 network switch configurations to create a representative research, test, and evaluation environment.
+2020 - Present: Chief Product Owner, DevSecOps Systems
+: Developed, managed, and executed DevSecOps engineering efforts and systems across NSWC Philadelphia Division
+: Led cross-Navy, academic, and industry partnership to develop DevOps solutions for industrial control systems
+: Established a center of excellence for DevSecOps and cloud engineering in an organization without previous experience in cloud-native technology
+: Regularly collaborated with senior managers and leadership to develop a comprehensive, long-term strategy for software development and enhanced NIST 800-37 compliance
+: Developed deployment system for baremetal Kubernetes on disconnected production networks
+: Onboarded software applications to Tekton CI pipelines with security testing and supply chain analysis
+: Regularly briefed senior leadership on enterprise-wide technical status
+: Built C# and Python container applications to enable continuous delivery for legacy systems
 
-## Education and Certifications
+2017-2020: Software Lead, DDG 1000 Machinery Control Systems
+: Lead for Java and C++ autonomous software group
+: Created standalone, disconnected test environments using Ansible, Jenkins, Red Hat Satellite, Active Directory
+: Configuration manager for Java, C++, and Programmable Logic Controller (PLC) software
+: Participated in cyber tabletop events as a subject matter expert
+: Supported site visits and installations for DDG 1000 class surface combatants
+: Created technical documentation for end users
 
-2010-2015
-:   **BSc, Mechanical Engineering**; Philadelphia University, Philadelphia, PA
-2019
-: **Certified Secure Software Lifecycle Professional**; ISC²
+## Life Cycle Engineering
 
-## Skills
+**Location:** Philadelphia, PA
 
-- Technical: Java, Red Hat Enterprise Linux, Windows Server, McAfee ePO, Tenable.sc, Ansible, Cisco iOS/NX-OS, VMWare, Jenkins
-- Programmatic: Agile and Scrum, Atlassian tool suite, Gitlab
-- Personal: Public speaking, critical thinking, documentation, biking, upholstery
+2015 - 2017: Software Engineer
+: Developed release processes for software applications and industrial control systems
+: Maintained Windows and CentOS software development labs
+: Supported on-site software and machinery integration tests
+: Configured Cisco iOS network switches
 
-## Professional Publications
+# Education and Certifications
+
+2010-2015: BSc, Mechanical Engineering
+: Philadelphia University, Philadelphia, PA
+
+2019: Certified Secure Software Lifecycle Professional
+: ISC²
+
+# Skills
+
+- Linux systems (Red Hat, Debian) and scripting (bash, Powershell, AWK)
+- Programming (Java, C#, C++, Python)
+- Continuous Integration (Tekton, Gitlab, Jenkins)
+- Cloud platforms (Amazon Web Services, Azure)
+- Configuration systems (Terraform, Packer, Ansible, Red Hat Satellite)
+- Networking (Cisco iOS, NX-OS)
+- Windows system administration (Active Directory, File Services, WSUS, etc.)
+- Microsoft Office (Power Platform, Sharepoint)
+
+# Professional Publications
+
+[An article about some of my work](https://www.dvidshub.net/news/434224/nswc-philadelphia-information-superiority-devsecops) was written for DVIDS.
 
 - Ryan, M., & Evans, M. (2024, May 1-2). "Updating Navy Hull, Mechanical, & Electrical (HM&E) Control Systems utilizing container applications" [Conference presentation]. Advanced Machinery Technology Symposium 2024, Philadelphia, PA, United States.
 - Ryan, M. (2023, September 6-8). "Implementing Navy DevSecOps Methodologies for Hull, Mechanical, and Electrical (HM&E) Systems" [Conference presentation]. Fleet Maintenance and Modernization Symposium 2023, San Diego, CA, United States.
